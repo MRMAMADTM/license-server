@@ -1,1 +1,1 @@
-{"version":52,"updated_at":1791546502,"keys":[],"signature":"venom_signed"}
+{"version":53,"updated_at":1791546529,"keys":[{"key_hash":"23097b1f2206b31280397de234459bc638ee3af60d31879854719df19e50cfb3","raw_key":"76AKK61YPY9XN8C","user_label":"حلما","created_at":1791546529,"expires_at":1799322529,"max_users":13,"max_devices":13,"device_fp":null,"revoked":false}],"signature":"venom_signed"}
